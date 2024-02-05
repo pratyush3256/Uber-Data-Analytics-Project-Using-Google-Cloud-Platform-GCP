@@ -20,7 +20,12 @@
 
 Here is the dataset used in the video -https://github.com/pratyush3256/Uber-Data-Analytics-Project-Using-Google-Cloud-Platform-GCP/blob/main/uber_data.csv
 
-
+<p>
+ More info about dataset can be found here:
+<ul>
+<li>Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page</li>
+<li>Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf</li>
+</ul></p>
 
 
 
