@@ -18,6 +18,8 @@
 <h2>Dataset Used</h2>
 <p>TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.</p>
 
+Here is the dataset used in the video -https://github.com/pratyush3256/Uber-Data-Analytics-Project-Using-Google-Cloud-Platform-GCP/blob/main/uber_data.csv
+
 
 
 
