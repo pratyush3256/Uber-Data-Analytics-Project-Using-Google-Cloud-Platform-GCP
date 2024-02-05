@@ -28,5 +28,7 @@ Here is the dataset used in the video -https://github.com/pratyush3256/Uber-Data
 </ul></p>
 <h2>Data Model</h2>
 <img src="data_model.jpeg" alt="data_model">
+<h2>Final Dashboard</h2>
+
 
 
