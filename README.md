@@ -2,7 +2,6 @@
 <h2>Learning outcomes</h2>
 <p> The goal of this project is to perform data analytics on Uber data and to learn to use the various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.</p>
 <h2>Architecture</h2>
-<img src="architecture.jpg" alt="architecture">
 <h2>Technologies Used</h2>
 <ol>
 <li>Python</li>
